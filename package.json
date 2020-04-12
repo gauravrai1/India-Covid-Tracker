@@ -1,0 +1,30 @@
+{
+  "name": "india-covid-tracker",
+  "version": "1.0.0",
+  "description": "A simple covid-19 tracker for India",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThinkHattke/India-Covid-Tracker.git"
+  },
+  "keywords": [
+    "Covid-19",
+    "India",
+    "corona_virus"
+  ],
+  "author": "Gaurav Rai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ThinkHattke/India-Covid-Tracker/issues"
+  },
+  "homepage": "https://github.com/ThinkHattke/India-Covid-Tracker#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1"
+  }
+}
